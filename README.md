@@ -7,6 +7,7 @@ Suppose the users of this web scraping application just like myself who want to 
 So, this application can save you time and efforts and always let you to be one of the earliest one who know the job opening information to provide you advantages at the job market. 
 
 This simple python web scraping program is designed to collect job posting data and send alerts for job seekers. The specific example information as bellow.
+
      (a)   Job titles: Data Scientist       Data Analyst       Business Analyst
      (b)   Location: New York 
      (c)   Source Website: Indeed
